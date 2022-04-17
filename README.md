@@ -1,7 +1,7 @@
 # Simple Weather App Tutorial
 
 <p align="left">
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+  <a href="https://discord.gg/D9SkzTZxrM" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/883484591195815946?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
